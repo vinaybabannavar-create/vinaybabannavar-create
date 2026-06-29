@@ -1,170 +1,198 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:00D4FF,100:7C3AED&height=200&section=header&text=Vinay%20Babannavar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;LangGraph+%7C+FastAPI+%7C+RAG+Pipelines;Full-Stack+%7C+React.js+%7C+Node.js;Open+to+Internships+%26+Entry-Level+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,40:6366F1,100:22D3EE&height=220&section=header&text=Vinay%20Babannavar&fontSize=52&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=AI%20Engineer%20·%20Full-Stack%20Developer%20·%20Builder&descAlignY=55&descSize=17&animation=fadeIn&stroke=6366F1&strokeWidth=1" width="100%"/>
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-b-0057b6339)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://vinay-portfolio-seven-nu.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaybabannavar@gmail.com)
-[![Visitors](https://komarev.com/ghpvc/?username=vinaybabannavar-create&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vinaybabannavar-create)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=⚡+Agentic+AI+%7C+LangGraph+%7C+RAG+Pipelines;🔧+FastAPI+%7C+React.js+%7C+Docker+%7C+ChromaDB;📄+Published+Researcher+%7C+Hackathon+Top+10;🚀+Actively+seeking+internships+%26+entry-level+roles)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vinay-b-0057b6339"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://vinay-portfolio-seven-nu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="mailto:vinaybabannavar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=vinaybabannavar-create&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
+<br/>
+
 ---
 
-## `$ whoami`
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=vinaybabannavar-create&show_icons=true&theme=tokyonight&border_color=6366F1&title_color=22D3EE&icon_color=6366F1&bg_color=080B14&hide_border=false&include_all_commits=true&count_private=true"/>
 
-```json
-{
-  "name"     : "Vinay Babannavar",
-  "role"     : "AI Engineer & Full-Stack Developer",
-  "education": "B.E. Computer Science @ T. John Institute of Technology, Bengaluru ('27)",
-  "focus"    : ["Agentic AI", "RAG Pipelines", "LangGraph", "Full-Stack Dev"],
-  "stack"    : ["Python", "FastAPI", "LangChain", "React.js", "Docker", "ChromaDB"],
-  "certs"    : ["Microsoft Azure AI-900", "AZ-900", "Cisco", "NPTEL Python"],
-  "published": "IJSRED Research Paper — Smart Campus Intelligence System",
-  "status"   : "open_to_collaborate → true",
-  "location" : "Bangalore, India 🇮🇳"
-}
+### `$ whoami`
+
+```yaml
+name      : Vinay Babannavar
+role      : AI Engineer & Full-Stack Developer
+college   : T. John Institute of Technology, Bengaluru
+degree    : B.E. Computer Science  |  Class of 2027
+cgpa      : 8.7 / 10.0
+
+focus:
+  - Agentic AI Systems (LangGraph, CrewAI)
+  - RAG Pipelines & LLM Applications
+  - Full-Stack Web Development
+  - MLOps & Cloud Deployment
+
+published : IJSRED — Smart Campus Intelligence System
+status    : open_to_internships: true 🚀
+location  : Bangalore, India 🇮🇳
 ```
 
+<br clear="right"/>
+
 ---
 
-## ⚡ Tech Arsenal
+## ▸ TECH STACK
 
 <div align="center">
 
-**AI / ML**
+<!-- AI/ML Row -->
+**`[ AI · ML · LLMs ]`**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)&nbsp;
+![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)&nbsp;
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)&nbsp;
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)&nbsp;
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)&nbsp;
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Full Stack**
+<!-- Full Stack Row -->
+**`[ FULL STACK ]`**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**DevOps & Cloud**
+<!-- DevOps Row -->
+**`[ DEVOPS · CLOUD ]`**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Flagship Projects
+## ▸ FLAGSHIP PROJECTS
 
-<div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [RecruitMind AI](https://github.com/vinaybabannavar-create/RecruitMind-AI)
-> **Agentic AI Recruitment Intelligence Platform**
+**🧠 &nbsp;[RecruitMind AI](https://github.com/vinaybabannavar-create/RecruitMind-AI)**&nbsp; `AGENTIC AI`
 
-6-node LangGraph pipeline that autonomously ranks, explains, compares and bias-checks candidates using multi-signal scoring.
+Autonomous AI recruitment platform with a 6-node LangGraph pipeline that ranks, compares, bias-checks, and explains candidate shortlists — no human in the loop.
 
-`LangGraph` `Groq Llama-3.3-70B` `ChromaDB` `FastAPI` `Docker` `Streamlit`
+**Stack →** `LangGraph` `Groq Llama-3.3-70B` `ChromaDB` `FastAPI` `Docker` `Streamlit`
 
-**8 REST endpoints** · **Diversity re-ranker** · **Explainable AI shortlists**
+```
+✦ 8 REST endpoints      ✦ Diversity re-ranker
+✦ 300 synthetic profiles ✦ Per-candidate AI explanations
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 🔮 [Neural Nexus](https://github.com/vinaybabannavar-create/Neural-Nexus)
-> **Self-Reflective Corrective RAG Pipeline**
+**🔮 &nbsp;[Neural Nexus](https://github.com/vinaybabannavar-create/Neural-Nexus)**&nbsp; `RAG · LLM`
 
-Advanced RAG system with self-correction loops — evaluates its own answers and re-retrieves when confidence is low.
+Self-reflective RAG system that grades its own answers, triggers corrective re-retrieval when confidence is low, and falls back to web search — eliminating hallucinations.
 
-`LangGraph` `DeepSeek-R1` `ChromaDB` `Pinecone` `Tavily` `FastAPI`
+**Stack →** `LangGraph` `DeepSeek-R1` `ChromaDB` `Pinecone` `Tavily` `FastAPI`
 
-**Self-healing queries** · **Hallucination guard** · **Multi-source retrieval**
+```
+✦ Self-healing queries   ✦ Hallucination guard
+✦ Multi-source retrieval ✦ Confidence scoring
+```
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 [AI Jenkins DevOps Agent](https://github.com/vinaybabannavar-create/AI-Powered-Jenkins-Pipeline-Analyzer-Self-Healing-DevOps-Agent)
-> **Self-Healing CI/CD Intelligence**
+**⚙️ &nbsp;[AI Jenkins DevOps Agent](https://github.com/vinaybabannavar-create/AI-Powered-Jenkins-Pipeline-Analyzer-Self-Healing-DevOps-Agent)**&nbsp; `DEVOPS · AI`
 
-Dual-layer Regex + LLM pipeline failure classifier with auto-remediation. Built for Hack2Hire 1.0 — **Top 10 out of 52 teams**.
+Dual-layer pipeline failure classifier with auto-remediation. Regex triage feeds into LLM root-cause analysis, generates fixes, and dashboards live CI/CD health.
 
-`Python` `Gemini LLM` `Flask` `Streamlit` `Jenkins API`
+**Stack →** `Python` `Gemini LLM` `Flask` `Streamlit` `Jenkins API`
 
-**Top 10 / 52 teams** · **Auto-remediation** · **Real-time dashboard**
+```
+✦ Top 10 / 52 teams — Hack2Hire 1.0
+✦ Auto-remediation  ✦ Real-time dashboard
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 🏫 [Smart Campus Intelligence System](https://github.com/vinaybabannavar-create)
-> **Published Research — IJSRED (ISSN: 2581-7175)**
+**🏫 &nbsp;[Smart Campus Intelligence System](https://github.com/vinaybabannavar-create)**&nbsp; `RESEARCH`
 
-5-module intelligent campus system: attendance, security, energy, health & navigation using CV + ML.
+5-module campus AI system covering attendance, security, energy, health & navigation — published in IJSRED (ISSN: 2581-7175).
 
-`MobileNetV2` `XGBoost` `SHAP` `React` `Django` `PostgreSQL`
+**Stack →** `MobileNetV2` `XGBoost` `SHAP` `React` `Django` `PostgreSQL`
 
-**Published paper** · **5 AI modules** · **QR-token auth**
+```
+✦ Published — IJSRED 2025
+✦ 5 AI modules  ✦ QR-token auth
+```
 
 </td>
 </tr>
 </table>
+
+---
+
+## ▸ GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybabannavar-create&layout=compact&theme=tokyonight&border_color=6366F1&title_color=22D3EE&bg_color=080B14"/>
+&nbsp;&nbsp;
+<img height="170em" src="https://streak-stats.demolab.com?user=vinaybabannavar-create&theme=tokyonight&border=6366F1&ring=6366F1&fire=22D3EE&currStreakLabel=22D3EE&background=080B14"/>
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ▸ ACHIEVEMENTS
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🔬  Research Published  │  IJSRED — Smart Campus Intelligence      │  2025  │
+│  🏆  Hackathon Top 10    │  Hack2Hire 1.0  ·  52 Teams Competed     │  2025  │
+│  🤖  Azure AI-900        │  Microsoft Azure AI Fundamentals          │  2024  │
+│  ☁️  Azure AZ-900        │  Microsoft Azure Fundamentals             │  2024  │
+│  🌐  Cisco Certified     │  Networking Fundamentals                  │  2024  │
+│  🐍  NPTEL Python        │  Programming in Python                    │  2024  │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinaybabannavar-create&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF&title_color=00D4FF&icon_color=7C3AED"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybabannavar-create&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF"/>
+`// available for internships · open to collaboration · building in public`
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vinaybabannavar-create&theme=tokyonight&border=00D4FF&ring=7C3AED&fire=00D4FF&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+<a href="https://www.linkedin.com/in/vinay-b-0057b6339"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://vinay-portfolio-seven-nu.vercel.app/"><img src="https://img.shields.io/badge/See%20My%20Work-Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="mailto:vinaybabannavar@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-</div>
+<br/><br/>
 
----
-
-## 🏆 Achievements & Certifications
-
-| 🥇 Achievement | 📅 Year |
-|---|---|
-| 🔬 Research Paper Published — IJSRED (Smart Campus Intelligence System) | 2025 |
-| 🏆 Top 10 / 52 teams — Hack2Hire 1.0 Hackathon (Jenkins DevOps Agent) | 2025 |
-| 🤖 Microsoft Azure AI Fundamentals (AI-900) | 2024 |
-| ☁️ Microsoft Azure Fundamentals (AZ-900) | 2024 |
-| 🌐 Cisco Networking Certification | 2024 |
-| 🐍 NPTEL Python Programming | 2024 |
-
----
-
-<div align="center">
-
-**💬 Got an internship opportunity or a project idea? Let's talk.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-b-0057b6339)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://vinay-portfolio-seven-nu.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaybabannavar@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D4FF,100:0A0E1A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,60:6366F1,100:080B14&height=130&section=footer" width="100%"/>
 
 </div>
