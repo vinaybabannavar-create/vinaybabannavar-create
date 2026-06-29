@@ -1,144 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vinay%20Babannavar&fontSize=42&fontColor=fff&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Bengaluru%2C%20India&descSize=15&descAlignY=52&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=140&section=header&text=Vinay%20Babannavar&fontSize=36&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Full-Stack+Developer;LangGraph+%7C+FastAPI+%7C+React.js;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/>
-
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=vinaybabannavar-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-
-**`AI Engineer building production-grade intelligent systems.`**
-
-I'm a CS undergrad (Class of '27, CGPA 8.7) who builds real agentic AI pipelines and full-stack applications — not just tutorials. My work spans LLM orchestration, RAG systems, and shipped web products.
-
-- 🔭 &nbsp;Latest: **RecruitMind AI** — 6-node agentic recruitment pipeline
-- 📄 &nbsp;Published: **IJSRED** — Smart Campus Intelligence System
-- 🏆 &nbsp;**Top 10 / 52 teams** at Hack2Hire 1.0 Hackathon
-- 🎓 &nbsp;Certified: **Azure AI-900 · AZ-900 · Cisco · NPTEL**
-- 💼 &nbsp;**Open to internships** in AI/ML & Full-Stack
-- 📍 &nbsp;Bangalore, India
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinay%20Babannavar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-b-0057b6339)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=flat&logo=vercel&logoColor=white)](https://vinay-portfolio-seven-nu.vercel.app/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vinaybabannavar@gmail.com)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=vinaybabannavar-create&style=flat&color=58A6FF&label=Profile+Views)](https://github.com/vinaybabannavar-create)
-
-<br clear="right"/>
-
----
-
-## 🚀 &nbsp;Featured Projects
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**[RecruitMind AI](https://github.com/vinaybabannavar-create/RecruitMind-AI)** &nbsp;·&nbsp; `Agentic AI`
-
-Autonomous recruitment intelligence platform. A 6-node LangGraph pipeline that ranks, compares, bias-checks, and explains candidate shortlists — end to end without human intervention.
-
-- 8 FastAPI endpoints · Docker deployed
-- 300 synthetic profiles · Diversity re-ranker
-- Per-candidate explainable AI shortlists
-
-`LangGraph` `Groq Llama-3.3-70B` `ChromaDB` `FastAPI` `Streamlit`
-
-</td>
-<td valign="top" width="50%">
-
-**[Neural Nexus](https://github.com/vinaybabannavar-create/Neural-Nexus)** &nbsp;·&nbsp; `RAG Pipeline`
-
-Self-reflective corrective RAG system that grades its own answers and triggers re-retrieval when confidence drops — eliminating hallucinations at the source.
-
-- Self-healing query loops
-- Multi-source retrieval with web fallback
-- Confidence scoring & hallucination guard
-
-`LangGraph` `DeepSeek-R1` `ChromaDB` `Pinecone` `Tavily`
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**[AI Jenkins DevOps Agent](https://github.com/vinaybabannavar-create/AI-Powered-Jenkins-Pipeline-Analyzer-Self-Healing-DevOps-Agent)** &nbsp;·&nbsp; `DevOps AI`
-
-Dual-layer CI/CD failure classifier with LLM-powered root cause analysis and auto-remediation. Built at Hack2Hire 1.0 — **Top 10 out of 52 teams**.
-
-- Regex triage → Gemini LLM analysis
-- Automated fix generation
-- Real-time Streamlit dashboard
-
-`Python` `Gemini` `Flask` `Jenkins API` `Streamlit`
-
-</td>
-<td valign="top" width="50%">
-
-**[Smart Campus Intelligence System](https://github.com/vinaybabannavar-create)** &nbsp;·&nbsp; `Research`
-
-5-module AI campus system for attendance, security, energy, health & navigation. **Published in IJSRED (ISSN: 2581-7175), 2025.**
-
-- MobileNetV2 face recognition
-- XGBoost health anomaly detection
-- QR-token secure authentication
-
-`MobileNetV2` `XGBoost` `SHAP` `Django` `React` `PostgreSQL`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠 &nbsp;Tech Stack
-
-```text
-Languages       Python · JavaScript · SQL · HTML/CSS
-AI / LLMs       LangChain · LangGraph · HuggingFace · Groq · DeepSeek · OpenCV
-Vector DBs      ChromaDB · Pinecone
-Backend         FastAPI · Flask · Django · Node.js · Express
-Frontend        React.js · Tailwind CSS · Streamlit
-Databases       MongoDB · PostgreSQL · MySQL
-DevOps          Docker · Git · GitHub Actions
-Cloud           Microsoft Azure (AI-900 · AZ-900 certified)
-```
-
----
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybabannavar-create&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-&nbsp;&nbsp;
-<img height="160" src="https://streak-stats.demolab.com?user=vinaybabannavar-create&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-b-0057b6339)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vinay-portfolio-seven-nu.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinaybabannavar@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=vinaybabannavar-create&style=flat-square&color=1F6FEB&label=Profile+Views)](https://github.com/vinaybabannavar-create)
 
 </div>
 
 ---
 
-## 🏆 &nbsp;Achievements
+### About Me
 
-| | Achievement | Detail | Year |
-|---|---|---|---|
-| 🔬 | Research Published | IJSRED — Smart Campus Intelligence System | 2025 |
-| 🥇 | Hackathon Top 10 | Hack2Hire 1.0 · 52 Teams · Jenkins DevOps Agent | 2025 |
-| ☁️ | Azure AI-900 | Microsoft Azure AI Fundamentals | 2024 |
-| ☁️ | Azure AZ-900 | Microsoft Azure Fundamentals | 2024 |
-| 🌐 | Cisco Certified | Networking Fundamentals | 2024 |
-| 🐍 | NPTEL Python | Programming in Python | 2024 |
+CS undergraduate at T. John Institute of Technology, Bengaluru (Class of 2027, CGPA 8.7). I build production-ready AI systems and full-stack applications — agentic pipelines, RAG architectures, and deployed web products.
+
+- Published researcher · **IJSRED** — Smart Campus Intelligence System
+- **Top 10 / 52 teams** — Hack2Hire 1.0 Hackathon
+- Certified in **Azure AI-900 · AZ-900 · Cisco · NPTEL Python**
+- Currently open to **AI/ML and Full-Stack internships**
+
+---
+
+### Tech Stack
+
+| Domain | Technologies |
+|---|---|
+| **AI / LLMs** | Python · LangChain · LangGraph · FastAPI · HuggingFace · Groq · OpenCV |
+| **Vector DBs** | ChromaDB · Pinecone |
+| **Frontend** | React.js · Tailwind CSS · Streamlit |
+| **Backend** | Node.js · Django · Flask · Express |
+| **Databases** | MongoDB · PostgreSQL · MySQL |
+| **DevOps** | Docker · Git · GitHub Actions · Azure |
+
+---
+
+### Projects
+
+**[RecruitMind AI](https://github.com/vinaybabannavar-create/RecruitMind-AI)**
+> Agentic AI recruitment platform using a 6-node LangGraph pipeline. Autonomously ranks, compares, bias-checks, and explains candidate shortlists via 8 FastAPI endpoints. Deployed with Docker.
+`LangGraph` · `Groq Llama-3.3-70B` · `ChromaDB` · `FastAPI` · `Docker` · `Streamlit`
+
+**[Neural Nexus](https://github.com/vinaybabannavar-create/Neural-Nexus)**
+> Self-reflective corrective RAG system that evaluates its own answers, triggers re-retrieval on low confidence, and falls back to web search — eliminating hallucinations.
+`LangGraph` · `DeepSeek-R1` · `ChromaDB` · `Pinecone` · `Tavily` · `FastAPI`
+
+**[AI Jenkins DevOps Agent](https://github.com/vinaybabannavar-create/AI-Powered-Jenkins-Pipeline-Analyzer-Self-Healing-DevOps-Agent)**
+> Dual-layer CI/CD failure classifier with LLM root-cause analysis and auto-remediation. Built at Hack2Hire 1.0 — **Top 10 out of 52 teams**.
+`Python` · `Gemini LLM` · `Flask` · `Streamlit` · `Jenkins API`
+
+**[Smart Campus Intelligence System](https://github.com/vinaybabannavar-create)**
+> 5-module campus AI system covering attendance, security, energy, health and navigation. **Published in IJSRED (ISSN: 2581-7175), 2025.**
+`MobileNetV2` · `XGBoost` · `SHAP` · `Django` · `React` · `PostgreSQL`
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=vinaybabannavar-create&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybabannavar-create&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-*Open to internship opportunities · Available for collaboration · Building in public*
+*Available for internships · Open to collaboration*
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
