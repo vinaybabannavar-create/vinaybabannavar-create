@@ -63,13 +63,17 @@ CS undergraduate at T. John Institute of Technology, Bengaluru (Class of 2027, C
 
 ### GitHub Stats
 
+| | |
+|---|---|
+| **Languages** | Python (primary) · JavaScript · SQL |
+| **Active Since** | September 2025 |
+| **Public Repos** | 16 |
+| **Contribution Streak** | View live on profile graph below ↓ |
+
 <div align="center">
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=vinaybabannavar-create&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybabannavar-create&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" alt="Top Languages" /></td>
-</tr>
-</table>
+
+*Full stats and contribution graph visible directly on this profile page*
+
 </div>
 
 ---
