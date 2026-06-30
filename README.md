@@ -41,18 +41,22 @@ CS undergraduate at T. John Institute of Technology, Bengaluru (Class of 2027, C
 
 **[RecruitMind AI](https://github.com/vinaybabannavar-create/RecruitMind-AI)**
 > Agentic AI recruitment platform using a 6-node LangGraph pipeline. Autonomously ranks, compares, bias-checks, and explains candidate shortlists via 8 FastAPI endpoints. Deployed with Docker.
+
 `LangGraph` · `Groq Llama-3.3-70B` · `ChromaDB` · `FastAPI` · `Docker` · `Streamlit`
 
 **[Neural Nexus](https://github.com/vinaybabannavar-create/Neural-Nexus)**
 > Self-reflective corrective RAG system that evaluates its own answers, triggers re-retrieval on low confidence, and falls back to web search — eliminating hallucinations.
+
 `LangGraph` · `DeepSeek-R1` · `ChromaDB` · `Pinecone` · `Tavily` · `FastAPI`
 
 **[AI Jenkins DevOps Agent](https://github.com/vinaybabannavar-create/AI-Powered-Jenkins-Pipeline-Analyzer-Self-Healing-DevOps-Agent)**
 > Dual-layer CI/CD failure classifier with LLM root-cause analysis and auto-remediation. Built at Hack2Hire 1.0 — **Top 10 out of 52 teams**.
+
 `Python` · `Gemini LLM` · `Flask` · `Streamlit` · `Jenkins API`
 
 **[Smart Campus Intelligence System](https://github.com/vinaybabannavar-create)**
 > 5-module campus AI system covering attendance, security, energy, health and navigation. **Published in IJSRED (ISSN: 2581-7175), 2025.**
+
 `MobileNetV2` · `XGBoost` · `SHAP` · `Django` · `React` · `PostgreSQL`
 
 ---
@@ -60,10 +64,12 @@ CS undergraduate at T. John Institute of Technology, Bengaluru (Class of 2027, C
 ### GitHub Stats
 
 <div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=vinaybabannavar-create&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybabannavar-create&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF"/>
-
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=vinaybabannavar-create&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybabannavar-create&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" alt="Top Languages" /></td>
+</tr>
+</table>
 </div>
 
 ---
@@ -71,6 +77,8 @@ CS undergraduate at T. John Institute of Technology, Bengaluru (Class of 2027, C
 <div align="center">
 
 *Available for internships · Open to collaboration*
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%"/>
 
