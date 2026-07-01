@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=140&section=header&text=Vinay%20Babannavar&fontSize=36&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Full-Stack+Developer;LangGraph+%7C+FastAPI+%7C+RAG+Pipelines;React.js+%7C+Django+%7C+Flask;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Full-Stack+Developer;LangGraph+%7C+FastAPI+%7C+RAG+Pipelines;React.js+%7C+Django+%7C+Flask;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-b-0057b6339)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vinay-portfolio-seven-nu.vercel.app/)
@@ -15,7 +15,7 @@
 
 ### About Me
 
-CS undergraduate at T. John Institute of Technology, Bengaluru (Class of 2027, CGPA 9). I build production-ready AI systems and full-stack applications — agentic pipelines, RAG architectures, and deployed web products.
+CS undergraduate at T. John Institute of Technology, Bengaluru (Class of 2027, CGPA 8.7). I build production-ready AI systems and full-stack applications — agentic pipelines, RAG architectures, and deployed web products.
 
 - 🔬 Published researcher · **IJSRED** — Smart Campus Intelligence System
 - 🏆 **Top 10 / 52 teams** — Hack2Hire 1.0 Hackathon
