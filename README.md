@@ -15,7 +15,7 @@
 
 ### About Me
 
-CS undergraduate at T. John Institute of Technology, Bengaluru (Class of 2027, CGPA 8.7). I build production-ready AI systems and full-stack applications — agentic pipelines, RAG architectures, and deployed web products.
+CS undergraduate at T. John Institute of Technology, Bengaluru (Class of 2027, CGPA 9). I build production-ready AI systems and full-stack applications — agentic pipelines, RAG architectures, and deployed web products.
 
 - 🔬 Published researcher · **IJSRED** — Smart Campus Intelligence System
 - 🏆 **Top 10 / 52 teams** — Hack2Hire 1.0 Hackathon
