@@ -127,8 +127,10 @@ AI-driven traffic signal system using computer vision to detect vehicle density 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinaybabannavar-create&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaybabannavar-create&theme=tokyonight&hide_border=true" width="49%"/>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/vinaybabannavar-create&label=Public%20Repos&query=$.public_repos&color=1F6FEB&style=flat-square)
+![Followers](https://img.shields.io/github/followers/vinaybabannavar-create?label=Followers&style=flat-square&color=1F6FEB)
+![Top Language](https://img.shields.io/github/languages/top/vinaybabannavar-create/RecruitMind-AI?label=Top%20Language&style=flat-square&color=1F6FEB)
+![Last Commit](https://img.shields.io/github/last-commit/vinaybabannavar-create/RecruitMind-AI?label=Last%20Commit&style=flat-square&color=1F6FEB)
 
 </div>
 
