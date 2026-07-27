@@ -15,7 +15,21 @@
 
 ## About Me
 
-Final-year Computer Science Engineering student at **T. John Institute of Technology, Bengaluru** (Class of 2027, CGPA 9.0). I design and ship end-to-end AI systems — agentic pipelines, retrieval-augmented generation, and self-healing DevOps tooling — alongside full-stack products taken from architecture through live deployment.
+```python
+class Vinay:
+    def __init__(self):
+        self.role          = "AI/ML Engineer | Full-Stack Developer"
+        self.education     = "B.E. Computer Science, T. John Institute of Technology"
+        self.graduation    = 2027
+        self.cgpa          = 9.0
+        self.focus_areas   = ["Agentic AI", "RAG Pipelines", "Full-Stack Systems", "DevOps Automation"]
+        self.publication   = "IJSRED, Vol. 9 Issue 3 (May–June 2026) — AI-Augmented Campus Platform"
+        self.hackathons    = {"Hack2Hire 1.0": "Top 10 / 52 teams", "Hack2Skill INDIA.RUNS 2026": "Submitted"}
+        self.status        = "Open to fresher SWE internships & full-time roles"
+
+    def __repr__(self):
+        return f"<Vinay | {self.role}>"
+```
 
 - 🔬 Published researcher — *"Towards a Connected Campus: Design and Evaluation of an AI-Augmented Institutional Management Platform,"* IJSRED (ISSN: 2581-7175), Vol. 9, Issue 3, May–June 2026
 - 🏆 Top 10 of 52 teams — Hack2Hire 1.0 Hackathon, with a self-healing DevOps agent that cut MTTR by 69.8%
@@ -54,6 +68,19 @@ Final-year Computer Science Engineering student at **T. John Institute of Techno
 | **DevOps & Tools** | Docker · Docker Compose · Git · GitHub · Jenkins · CI/CD · VS Code |
 | **Cloud & Deployment** | Microsoft Azure · Vercel · Render |
 
+**Stack distribution by domain**
+
+```mermaid
+pie showData
+    title Tech Stack by Domain
+    "AI / ML" : 8
+    "DevOps & Tools" : 7
+    "Web & Backend" : 6
+    "Databases" : 3
+    "Cloud & Deployment" : 3
+    "Languages" : 3
+```
+
 <br/>
 
 ## Experience
@@ -78,6 +105,18 @@ Agentic AI recruitment platform built for the **Hack2Skill INDIA.RUNS 2026** hac
 Self-reflective Corrective RAG system built on a 5-node LangGraph stateful graph — retrieval, relevance grading, web-search fallback, generation, and hallucination checking — using DeepSeek-R1 as a reasoning-based grader. Runs end-to-end with zero human intervention.
 
 `LangGraph` · `DeepSeek-R1` · `ChromaDB` · `Pinecone` · `Tavily` · `FastAPI`
+
+```mermaid
+flowchart LR
+    A[User Query] --> B[Retrieve: ChromaDB / Pinecone]
+    B --> C{Relevance Grading<br/>DeepSeek-R1}
+    C -->|Relevant| D[Generate Answer]
+    C -->|Not Relevant| E[Web Search Fallback<br/>Tavily]
+    E --> D
+    D --> F{Hallucination Check}
+    F -->|Grounded| G[Final Answer]
+    F -->|Not Grounded| B
+```
 
 ### MediLedger
 GST-compliant pharmacy billing and inventory management system built for a family-run medical store, taken from design to live production deployment.
