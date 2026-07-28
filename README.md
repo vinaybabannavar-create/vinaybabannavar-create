@@ -85,9 +85,6 @@ pie showData
 
 ## Experience
 
-**MERN Stack Intern** · Unified Mentor
-- Built SwapWear, a MERN-stack application, as part of a hands-on internship program
-
 **Student Intern — Innovation & Design Thinking** · Comedkares, Karnataka *(Apr 2024 – Jun 2024)*
 - Applied design thinking methodologies to identify and analyze real-world user problems
 - Collaborated with cross-functional teams to ideate and prototype user-centered solutions
