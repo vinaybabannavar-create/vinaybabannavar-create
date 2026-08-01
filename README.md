@@ -32,10 +32,10 @@ class Vinay:
 ```
 
 - 🔬 Published researcher — *"Towards a Connected Campus: Design and Evaluation of an AI-Augmented Institutional Management Platform,"* IJSRED (ISSN: 2581-7175), Vol. 9, Issue 3, May–June 2026
-- 🏆 Top 10 of 52 teams — Hack2Hire 1.0 Hackathon, with a self-healing DevOps agent that cut MTTR by 69.8%
-- 💼 Design Thinking & Innovation Intern — Comedkares (2024); MERN-stack Intern — Unified Mentor
-- 📜 Certified: Microsoft Azure AI-900 · AZ-900 · Cisco Networking · NPTEL (Python, Cloud Computing, DBMS, ML) · TATA Forage GenAI
-- 🚀 Currently seeking **fresher-level internships and full-time SWE roles in AI/ML and full-stack development**
+-  Top 10 of 52 teams — Hack2Hire 1.0 Hackathon, with a self-healing DevOps agent that cut MTTR by 69.8%
+-  Design Thinking & Innovation Intern — Comedkares (2024); Web Development Intern — Unified Mentor (2026)
+-  Certified: Microsoft Azure AI-900 · AZ-900 · Cisco Networking · NPTEL (Python, Cloud Computing, DBMS, ML) · TATA Forage GenAI
+-  Currently seeking **fresher-level internships and full-time SWE roles in AI/ML and full-stack development**
 
 <br/>
 
@@ -85,6 +85,10 @@ pie showData
 
 ## Experience
 
+**Web Development Intern — Unified Mentor** *(Apr 2026 – Jul 2026)*
+- Completed a three-month web development internship, delivering consistent, hands-on contributions
+- Built SwapWear, a MERN-stack web application, as the primary project during the internship
+  
 **Student Intern — Innovation & Design Thinking** · Comedkares, Karnataka *(Apr 2024 – Jun 2024)*
 - Applied design thinking methodologies to identify and analyze real-world user problems
 - Collaborated with cross-functional teams to ideate and prototype user-centered solutions
