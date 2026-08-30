@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-babannavar-0057b6339)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vinay-portfolio-seven-nu.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaybabannavar@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white)](https://vinay-portfolio-seven-nu.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1ZmlFpA9JceXlV1MiD2gq5DNjMitcEx8R/view?usp=drivesdk)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vinaybabannavar-create&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS)
 
@@ -74,7 +74,6 @@ timeline
 | **Razorpay AI Builder Internship 2026** (Open Track) | Submitted | Jenkins Pipeline Analyzer agent |
 | **Humanity Founders — B2B Textile Marketplace** | Submitted | MERN buyer/supplier marketplace with AI assistant |
 | **Ideathon Challenge** | Submitted (2nd entry) | CodeGuard AI |
-| **The Great Agent Hackathon** (Women in Product India × Freshworks) | 🔜 Sept 2026 | Registering — bringing the Jenkins agent forward |
 
 <br>
 
@@ -224,7 +223,6 @@ GST-compliant pharmacy billing and inventory management system, built end-to-end
 
 ## 🔭 Currently building
 
-- 🔜 Preparing the Jenkins self-healing agent for **The Great Agent Hackathon** (Women in Product India × Freshworks), Sept 2026
 - 🏗️ **Phase 2 of Smart Campus Intelligence System** — an AI project-tracker/repo-review agent + JD-based resume matching platform for placement drives
 - ✨ **AI Career Copilot** — a SaaS app for resume/JD analysis with a dashboard and history tracking
 
