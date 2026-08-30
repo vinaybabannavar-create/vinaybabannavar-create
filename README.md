@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Agentic+AI+Engineer+%C2%B7+Full-Stack+Developer;LangGraph+%C2%B7+RAG+Pipelines+%C2%B7+FastAPI+%C2%B7+React+19;69.8%25+MTTR+cut+%7C+Top+100%2F1000%2B+builders+%7C+Published+researcher;Final-year+CSE+%C2%B7+9.0+CGPA+%C2%B7+Open+to+SWE+roles+now)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-b-0057b6339)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-babannavar-0057b6339)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vinay-portfolio-seven-nu.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaybabannavar@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white)](https://vinay-portfolio-seven-nu.vercel.app/)
@@ -234,9 +234,9 @@ GST-compliant pharmacy billing and inventory management system, built end-to-end
 
 <div align="center">
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaybabannavar-create&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybabannavar-create&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinaybabannavar-create&theme=tokyonight&hide_border=true)
+![Vinay's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinaybabannavar-create&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinaybabannavar-create&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vinaybabannavar-create&theme=tokyonight&hide_border=true)
 
 </div>
 
