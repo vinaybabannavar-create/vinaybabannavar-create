@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-babannavar-0057b6339)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vinay-portfolio-seven-nu.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaybabannavar@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1ZmlFpA9JceXlV1MiD2gq5DNjMitcEx8R/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Resume-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1R4diAtgFzY0sweAFE4OynabYOIlfFs6T/view?usp=drivesdk)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vinaybabannavar-create&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS)
 
