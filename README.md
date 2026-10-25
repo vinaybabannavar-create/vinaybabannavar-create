@@ -1,249 +1,289 @@
 <div align="center">
 
-<!-- Profile README for github.com/vinaybabannavar-create -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1020,45:142D4E,100:2563EB&text=VINAY%20BABANNAVAR&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20%7C%20Agentic%20AI%20%7C%20Full-Stack&descAlignY=60&descSize=16&animation=fadeIn" alt="Vinay Babannavar — Software Engineering, Agentic AI, Full-Stack"/>
-
-<a href="https://www.linkedin.com/in/vinay-babannavar-0057b6339">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a> <a href="https://vinay-portfolio-seven-nu.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a> <a href="mailto:vinaybabannavar@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://drive.google.com/file/d/1R4diAtgFzY0sweAFE4OynabYOIlfFs6T/view?usp=drivesdk">
-<img src="https://img.shields.io/badge/Resume-View-2563EB?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=2563EB" alt=""/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vinaybabannavar-create&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+<pre>
+██╗   ██╗██╗███╗   ██╗ █████╗ ██╗   ██╗
+██║   ██║██║████╗  ██║██╔══██╗╚██╗ ██╔╝
+╚██╗ ██╔╝██║██╔██╗ ██║███████║ ╚████╔╝
+ ╚████╔╝ ██║██║╚██╗██║██╔══██║  ╚██╔╝
+  ╚██╔╝  ██║██║ ╚████║██║  ██║   ██║
+   ╚═╝   ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝
+</pre>
+
+### `software.engineering()` · `agentic_ai()` · `ship_to_production()`
+
+**Vinay Babannavar**  
+Final-year Computer Science & Engineering · Bengaluru, India · Class of
+2027
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vinay-babannavar-0057b6339"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://vinay-portfolio-seven-nu.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:vinaybabannavar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://drive.google.com/file/d/1R4diAtgFzY0sweAFE4OynabYOIlfFs6T/view?usp=drivesdk"><img src="https://img.shields.io/badge/RESUME-Open-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 
 </div>
 
 ------------------------------------------------------------------------
 
-## `whoami`
+``` python
+class VinayBabannavar:
+    role = "Software Engineer in the making"
+    education = "B.E. Computer Science & Engineering"
+    graduation = 2027
+    focus = ["Python", "Backend Systems", "Agentic AI", "Full-Stack"]
+    philosophy = "Build it. Test it. Ship it. Learn from reality."
 
-I’m a final-year **Computer Science & Engineering student at T. John
-Institute of Technology, Bengaluru**, graduating in **2027**. I build
-across **Python backend engineering, agentic AI, retrieval-augmented
-generation (RAG), and full-stack applications**.
+    def currently_seeking(self):
+        return ["Software Engineering Internships",
+                "Python / Backend Roles",
+                "AI / ML Engineering Opportunities"]
+```
 
-I care about the full engineering loop: understanding a problem,
-designing the workflow, implementing the system, testing its behavior,
-and getting it deployed. My portfolio includes AI-assisted DevOps,
-candidate-ranking workflows, corrective RAG, a deployed billing
-application, and co-authored campus-AI research.
+I build software across **backend engineering, agentic AI,
+retrieval-augmented generation, and full-stack applications**. I enjoy
+taking a problem from architecture to implementation, evaluating how it
+behaves, and deploying something people can actually use.
 
-- **Currently focused on:** Python, APIs, agentic workflows, RAG, and
-  production-minded application development.
-- **Selected work:** [Self-Healing DevOps
-  Agent](https://github.com/vinaybabannavar-create/AI-Powered-Jenkins-Pipeline-Analyzer-Self-Healing-DevOps-Agent)
-  · [Neural
-  Nexus](https://github.com/vinaybabannavar-create/Neural-Nexus) ·
-  [RecruitMind
-  AI](https://github.com/vinaybabannavar-create/RecruitMind-AI)
-- **Open to:** Software Engineering, Python Backend, Full-Stack, and
-  AI/ML internships or entry-level opportunities.
+My work includes a self-healing DevOps agent, a corrective RAG
+assistant, an AI recruitment workflow, a deployed billing system, and
+published campus-AI research.
 
-------------------------------------------------------------------------
+## `01 / proof_of_work`
 
-## Engineering highlights
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
-<h3>
-69.8%
-</h3>
-<p>
-MTTR reduction reported for the Self-Healing DevOps Agent
-</p>
+<td width="50%" valign="top">
+
+### `69.8% ↓`
+
+**Mean time to resolution**
+
+Reported reduction in MTTR by my self-healing Jenkins DevOps agent.
+
 </td>
-<td width="50%">
-<h3>
-90%
-</h3>
-<p>
-Failure-classification accuracy reported for the same project
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>
-Top 10 / 52
-</h3>
-<p>
-Hack2Hire 1.0 — Self-Healing DevOps Agent
-</p>
-</td>
-<td width="50%">
-<h3>
-Top 100 nationally
-</h3>
-<p>
-AI Agent Builder Series 2026 National Finale — solo participant
-</p>
+<td width="50%" valign="top">
+
+### `90%`
+
+**Failure classification accuracy**
+
+Reported project evaluation result for the same agent.
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<h3>
-300+ profiles
-</h3>
-<p>
-Candidate profiles processed and ranked by RecruitMind AI
-</p>
+<td width="50%" valign="top">
+
+### `TOP 10 / 52`
+
+**Hack2Hire 1.0**
+
+Competitive result with the self-healing DevOps agent.
+
 </td>
-<td width="50%">
-<h3>
-Published research
-</h3>
-<p>
-Co-authored paper on an AI-augmented campus management platform
-</p>
+<td width="50%" valign="top">
+
+### `TOP 100`
+
+**National AI Agent Builder Finale**
+
+Solo participant in the HiDevs × AI House national finale.
+
 </td>
 </tr>
 </table>
 
-------------------------------------------------------------------------
+</div>
 
-## Selected engineering work
+## `02 / selected_systems`
 
-### 01 · AI-Powered Jenkins Pipeline Analyzer & Self-Healing DevOps Agent
+<details open>
+<summary>
+<strong>01 — Self-Healing DevOps Agent</strong>   <code>Python · LLMs ·
+Jenkins · CI/CD</code>
+</summary>
 
-**Python · Gemini API · Flask · Streamlit · Jenkins · CI/CD**
+<br/>
 
-Analyses CI/CD logs, classifies build failures, identifies likely root
-causes, and attempts automated remediation for known failure patterns,
-with a human-review path for unresolved cases.
+**A CI/CD failure is a debugging problem. This project tries to make it
+a recoverable workflow.**
+
+Ingests Jenkins logs, classifies failures, performs LLM-assisted
+root-cause analysis, and attempts fixes for known failure patterns.
+Unresolved cases can be sent for human review.
 
 - Reported **69.8% MTTR reduction** and **90% failure-classification
   accuracy** in project evaluation.
 - **Result:** Top 10 of 52 teams at Hack2Hire 1.0.
 
-[Repository
-→](https://github.com/vinaybabannavar-create/AI-Powered-Jenkins-Pipeline-Analyzer-Self-Healing-DevOps-Agent)
+`Python` `Gemini API` `Flask` `Streamlit` `Jenkins` `CI/CD`
 
-### 02 · Neural Nexus — Corrective RAG Assistant
+**[↗ Source
+code](https://github.com/vinaybabannavar-create/AI-Powered-Jenkins-Pipeline-Analyzer-Self-Healing-DevOps-Agent)**
 
-**Python · LangGraph · DeepSeek-R1 · ChromaDB · Pinecone · Tavily ·
-FastAPI**
+</details>
+<details>
+<summary>
+<strong>02 — Neural Nexus</strong>   <code>Corrective RAG · LangGraph ·
+FastAPI</code>
+</summary>
 
-A stateful RAG workflow that grades retrieved context, falls back to web
-search when retrieval is weak, generates a response, and checks
-grounding before returning it.
+<br/>
 
-[Repository →](https://github.com/vinaybabannavar-create/Neural-Nexus)
+A stateful RAG pipeline that evaluates retrieval quality, uses web
+search when the retrieved context is weak, generates an answer, and
+checks whether the response is grounded.
 
-### 03 · RecruitMind AI — Agentic Recruitment Platform
+- Built a multi-step retrieval, grading, generation, and verification
+  workflow.
+- Combines vector retrieval with a search fallback.
 
-**Python · LangGraph · Llama 3.3 · ChromaDB · FastAPI · Docker ·
-Streamlit**
+`Python` `LangGraph` `DeepSeek-R1` `ChromaDB` `Pinecone` `Tavily`
+`FastAPI`
 
-A recruitment workflow that parses job descriptions, embeds candidate
-profiles, and ranks **300+ profiles** using a multi-signal score and
-diversity re-ranking. Includes a six-node LangGraph pipeline and
-asynchronous FastAPI endpoints.
+**[↗ Source
+code](https://github.com/vinaybabannavar-create/Neural-Nexus)**
 
-- **Program update:** RecruitMind AI was selected through HiDevs, as
-  shared in my program journey.
+</details>
+<details>
+<summary>
+<strong>03 — RecruitMind AI</strong>   <code>Agentic Recruitment ·
+Embeddings · Ranking</code>
+</summary>
 
-[Repository →](https://github.com/vinaybabannavar-create/RecruitMind-AI)
+<br/>
 
-### 04 · MediLedger — Billing & Inventory
+An AI recruitment workflow that parses job descriptions, embeds
+candidate profiles, and ranks **300+ candidate profiles** using multiple
+scoring signals and diversity re-ranking.
 
-**React · FastAPI · PostgreSQL · Tailwind CSS · Docker Compose**
+- Six-node LangGraph workflow.
+- 384-dimensional embeddings and five-signal scoring.
+- Asynchronous FastAPI endpoints and a Streamlit interface.
+- **Program milestone:** RecruitMind AI was selected through HiDevs.
 
-A GST-oriented billing and inventory application built for a family-run
-medical business and deployed for practical use. The system connects a
-React frontend with a FastAPI backend and PostgreSQL.
+`Python` `LangGraph` `Llama 3.3` `ChromaDB` `FastAPI` `Docker`
+`Streamlit`
 
-### 05 · Smart Campus Intelligence System
+**[↗ Source
+code](https://github.com/vinaybabannavar-create/RecruitMind-AI)**
 
-**Python · MobileNetV2 · XGBoost · SHAP · Django · React · MySQL**
+</details>
+<details>
+<summary>
+<strong>04 — MediLedger</strong>   <code>Deployed application · Billing
+· Inventory</code>
+</summary>
 
-A multi-module campus project exploring AI-supported attendance,
-security, energy, health, and navigation workflows. This work formed the
-basis of a co-authored paper:
+<br/>
+
+A GST-oriented billing and inventory management system built for a
+family-run medical business and deployed for practical use.
+
+- React frontend connected to a FastAPI backend.
+- PostgreSQL data layer.
+- Built around real billing and inventory workflows.
+
+`React` `FastAPI` `PostgreSQL` `Tailwind CSS` `Docker Compose`
+
+</details>
+<details>
+<summary>
+<strong>05 — Smart Campus Intelligence System</strong>   <code>Applied
+AI · Research</code>
+</summary>
+
+<br/>
+
+A multi-module campus intelligence project exploring attendance,
+security, energy, health, and navigation workflows using AI and machine
+learning.
+
+This work formed the basis of the co-authored paper:
 
 *“Towards a Connected Campus: Design and Evaluation of an AI-Augmented
 Institutional Management Platform”* — IJSRED, Volume 9, Issue 3, 2026.
 
-### More projects
+`Python` `MobileNetV2` `XGBoost` `SHAP` `Django` `React` `MySQL`
 
-- **AI Agent Workflow Builder** — a workflow automation application
+</details>
+<details>
+<summary>
+<strong>More builds</strong>   <code>Automation · Computer Vision ·
+MERN</code>
+</summary>
+
+- **AI Agent Workflow Builder** — workflow automation application
   developed for a hiring challenge and deployed.
 - **Intelligent Digital Twin System** — IoT sensor data with
   machine-learning-based predictive-maintenance analysis.
-- **Smart AI Traffic Signal System** — OpenCV-based vehicle-density
-  detection for adaptive signal timing.
+- **Smart AI Traffic Signal System** — OpenCV vehicle-density detection
+  for adaptive signal timing.
 - **SwapWear** — MERN application developed during my Web Development
   Internship at Unified Mentor.
 - **CodeGuard AI** — submitted to the Ideathon Challenge.
+- **Humanity Founders B2B Textile Marketplace** — MERN marketplace with
+  an AI assistant, submitted.
 
-------------------------------------------------------------------------
+</details>
 
-## Hackathons, programs & research
+## `03 / milestones`
 
-| Event / program                                      | Participation / outcome                                                       |
-|------------------------------------------------------|-------------------------------------------------------------------------------|
-| **Hack2Hire 1.0**                                    | Top 10 of 52 teams — Self-Healing DevOps Agent                                |
-| **AI Agent Builder Series 2026 — HiDevs × AI House** | Top 100 nationally; solo participant in the 12-hour in-person national finale |
-| **Google office visit**                              | Attended the in-person national finale at the Google office                   |
-| **HiDevs**                                           | RecruitMind AI selected, according to the program update I received           |
-| **Hack2Skill INDIA.RUNS 2026**                       | RecruitMind AI submitted                                                      |
-| **Razorpay AI Builder Internship 2026 — Open Track** | Jenkins Pipeline Analyzer submitted                                           |
-| **Humanity Founders — B2B Textile Marketplace**      | MERN marketplace with AI assistant submitted                                  |
-| **Ideathon Challenge**                               | CodeGuard AI submitted                                                        |
+| Program / event                                      | Milestone                                                                         |
+|:-----------------------------------------------------|:----------------------------------------------------------------------------------|
+| **Hack2Hire 1.0**                                    | **Top 10 of 52 teams** — Self-Healing DevOps Agent                                |
+| **AI Agent Builder Series 2026 · HiDevs × AI House** | **Top 100 nationally**; solo participant in the 12-hour in-person national finale |
+| **Google office**                                    | Attended the in-person national finale at the Google office                       |
+| **HiDevs**                                           | RecruitMind AI selected, as shared in my program journey                          |
+| **Hack2Skill INDIA.RUNS 2026**                       | RecruitMind AI submitted                                                          |
+| **Razorpay AI Builder Internship 2026 · Open Track** | Jenkins Pipeline Analyzer submitted                                               |
+| **Humanity Founders · B2B Textile Marketplace**      | Marketplace submission                                                            |
+| **Ideathon Challenge**                               | CodeGuard AI submitted                                                            |
+| **Research · IJSRED**                                | Co-authored paper on AI-augmented campus management                               |
 
-------------------------------------------------------------------------
+## `04 / engineering_stack`
 
-## Technical toolkit
+<div align="center">
 
-**Languages**  
-Python · Java · JavaScript · TypeScript
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,tailwind,nodejs,django,fastapi,flask,postgres,mysql,mongodb,docker,jenkins,azure,git,github,vscode&perline=10" alt="Technology stack icons"/>
 
-**Backend & APIs**  
-FastAPI · Flask · Django · Node.js · REST APIs
+</div>
 
-**Frontend**  
-React · Next.js · Tailwind CSS · HTML · CSS
+| Area                 | Tools and concepts                                                            |
+|:---------------------|:------------------------------------------------------------------------------|
+| **Languages**        | Python · Java · JavaScript · TypeScript                                       |
+| **Backend & APIs**   | FastAPI · Flask · Django · Node.js · REST APIs                                |
+| **Frontend**         | React · Next.js · Tailwind CSS · HTML · CSS                                   |
+| **AI engineering**   | LangGraph · LangChain · RAG · LLM APIs · Embeddings · Vector Search           |
+| **Data**             | PostgreSQL · MySQL · MongoDB · ChromaDB · Pinecone                            |
+| **Delivery & cloud** | Docker · Docker Compose · Jenkins · CI/CD · Microsoft Azure · Vercel · Render |
+| **Developer tools**  | Git · GitHub · VS Code                                                        |
 
-**AI / ML**  
-LangGraph · LangChain · RAG · LLM APIs · Agentic AI · Embeddings ·
-Vector Search
-
-**Data**  
-PostgreSQL · MySQL · MongoDB · ChromaDB · Pinecone
-
-**DevOps & cloud**  
-Docker · Docker Compose · Jenkins · CI/CD · Microsoft Azure · Vercel ·
-Render
-
-**Tools**  
-Git · GitHub · VS Code
-
-------------------------------------------------------------------------
-
-## Experience
+## `05 / experience`
 
 **Web Development Intern — Unified Mentor**  
-*April–July 2026* - Built SwapWear, a MERN-based application. - Worked
-on responsive UI, backend integration, REST APIs, and Git-based
-collaboration.
+*April–July 2026*
+
+- Developed SwapWear, a MERN-based application.
+- Worked on responsive UI, backend integration, REST APIs, and Git-based
+  collaboration.
 
 **Design Thinking Intern — Comedkares**  
-*2024* - Participated in an innovation and design-thinking program.
+*2024*
 
-------------------------------------------------------------------------
+- Participated in an innovation and design-thinking program.
 
-## Certifications
+## `06 / credentials`
 
-- Microsoft Azure AI Fundamentals (AI-900)
-- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure AI Fundamentals — **AI-900**
+- Microsoft Azure Fundamentals — **AZ-900**
 - NPTEL — Cloud Computing
 - NPTEL — Database Management Systems
 - NPTEL — Introduction to Machine Learning
@@ -252,26 +292,18 @@ collaboration.
 - Outskill — Generative AI Mastermind
 - Comedkares — Innovation & Design Thinking Program
 
-------------------------------------------------------------------------
-
-## Education
+## `07 / education`
 
 **B.E. Computer Science & Engineering**  
-T. John Institute of Technology, Bengaluru  
+T. John Institute of Technology · Bengaluru  
 Expected graduation: **June 2027** · **CGPA: 8.7/10**
 
-------------------------------------------------------------------------
-
-## GitHub activity
+## `08 / github_telemetry`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinaybabannavar-create&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinaybabannavar-create&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybabannavar-create&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
-
-</div>
-
-<div align="center">
 
 <img width="95%" src="https://streak-stats.demolab.com?user=vinaybabannavar-create&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
 
@@ -281,13 +313,16 @@ Expected graduation: **June 2027** · **CGPA: 8.7/10**
 
 <div align="center">
 
-### Building, testing, learning, shipping.
+**I like turning complex problems into systems that can be tested,
+understood, and shipped.**
 
-**Interested in engineering teams working on backend systems, AI
-products, and reliable software.**
+`Bengaluru, India` · `Graduating 2027` ·
+`Open to Software / Backend / AI Engineering Opportunities`
 
-[LinkedIn](https://www.linkedin.com/in/vinay-babannavar-0057b6339) ·
-[Portfolio](https://vinay-portfolio-seven-nu.vercel.app/) ·
-[Email](mailto:vinaybabannavar@gmail.com)
+<a href="https://www.linkedin.com/in/vinay-babannavar-0057b6339">LinkedIn</a>
+· <a href="https://vinay-portfolio-seven-nu.vercel.app/">Portfolio</a> ·
+<a href="mailto:vinaybabannavar@gmail.com">Email</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=2563EB" alt=""/>
 
 </div>
